@@ -1,2 +1,2 @@
 # LeetCode-Roadmap
-A roadmap to start solving problems on Leetcode.
+A roadmap to start solving problems of coding on Leetcode.
